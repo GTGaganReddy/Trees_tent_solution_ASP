@@ -16,13 +16,10 @@
    ##Input format
 Please use the following file format for puzzles:
 
-5 10
-.......... 0
-......T... 2
-..T...T... 0
-.......... 1
-.......... 0
-0 0 1 0 0 0 1 1 0 0
+
+
+![Screenshot 2024-02-29 164405](https://github.com/GTGaganReddy/Trees_tent_solution_ASP/assets/74946644/33e7a2bb-2e72-4149-bd69-a1eae5ee7635)
+
 The first line provides the dimensions of the puzzle (rows columns). Then one line per row representing the puzzle, a dot for an empty cell or a T for a tree, after the line, separated by a space, follows the number of tents in the row. After the last line of the puzzle follow the numbers of tents for each column (separated by spaces).
 
 
