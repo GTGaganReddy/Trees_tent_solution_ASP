@@ -48,7 +48,7 @@ def generate_asp_file(rows, cols, puzzle, row_counts, output_file):
 
 # Usage example
 input_file = 'input.txt'
-output_file = 'constraints.asp'
+output_file = 'constraints.lp'
 
 rows, cols, puzzle, row_counts = parse_input_file(input_file)
 generate_asp_file(rows, cols, puzzle, row_counts, output_file)
